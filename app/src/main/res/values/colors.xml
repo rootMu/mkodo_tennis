@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ebony_clay">#242836</color>
+    <color name="bright_gray">#3A3E4A</color>
+    <color name="fiord">#444C66</color>
+    <color name="storm_gray">#697086</color>
+    <color name="razzmatazz">#EE1753</color>
+</resources>
